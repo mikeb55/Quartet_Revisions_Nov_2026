@@ -7,7 +7,7 @@ This repository contains incremental revisions and development documentation for
 ```
 Quartet_Revisions_Nov_2026/
 ├── Fire/                        # Fire movement (Movement 3)
-│   ├── Movement-3/              # Fire movement revisions
+│   ├── Movement 3/              # Fire movement revisions
 │   │   ├── 3rd Movement - Fire -  NG orig.musicxml  # Original Sibelius export
 │   │   ├── Fire-Mov3-rev01-ExpandedSections.musicxml
 │   │   ├── Fire-Mov3-rev02-ComprehensiveEnhancements.musicxml
@@ -53,7 +53,7 @@ Quartet_Revisions_Nov_2026/
 **Time Signature:** 4/4 (with 8/4 at measure 50)
 
 ### Original File
-**File:** `Fire/Movement-3/3rd Movement - Fire -  NG orig.musicxml`
+**File:** `Fire/Movement 3/3rd Movement - Fire -  NG orig.musicxml`
 - Original MusicXML file exported from Sibelius
 - Baseline for all revisions
 - Used for comparison with all enhanced versions
@@ -63,7 +63,7 @@ Quartet_Revisions_Nov_2026/
 ## Revision History
 
 ### Rev01: ExpandedSections ✅
-**File:** `Fire/Movement-3/Fire-Mov3-rev01-ExpandedSections.musicxml`
+**File:** `Fire/Movement 3/Fire-Mov3-rev01-ExpandedSections.musicxml`
 
 **Enhancements Added:**
 - **Measure 9 (Section B):** Added **f** dynamic, **agitato**, **sempre più animato**
@@ -72,8 +72,8 @@ Quartet_Revisions_Nov_2026/
 ---
 
 ### Rev02: ComprehensiveEnhancements ✅
-**File:** `Fire/Movement-3/Fire-Mov3-rev02-ComprehensiveEnhancements.musicxml`  
-**Final Version:** `Fire/Movement-3/Fire-Mov3-rev02-ComprehensiveEnhancements-V4.musicxml`
+**File:** `Fire/Movement 3/Fire-Mov3-rev02-ComprehensiveEnhancements.musicxml`  
+**Final Version:** `Fire/Movement 3/Fire-Mov3-rev02-ComprehensiveEnhancements-V4.musicxml`
 
 **Major Enhancements:**
 
