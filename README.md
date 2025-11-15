@@ -19,8 +19,12 @@ Quartet_Revisions_Nov_2026/
 │       ├── Fire-Mov3-rev02-EditSummary.md
 │       ├── Fire-Mov3-rev02-ArticulationsSummary.md
 │       └── ...
-├── Earth/                       # Earth movement (Movement 1) - Future
-│   └── ...
+├── Earth/                       # Earth movement (Movement 1)
+│   ├── Movement-1/              # Earth movement revisions
+│   │   ├── Earth-Mov1-rev01-GuitarRemoved.musicxml
+│   │   └── ...
+│   └── Documentation/          # Earth movement documentation
+│       └── ...
 ├── Water/                       # Water movement (Movement 2) - Future
 │   └── ...
 └── README.md                    # This file
@@ -192,11 +196,37 @@ All documentation is located in `Fire/Documentation/`:
 
 ---
 
-## Future Movements
+## Earth Movement 1 - Current Status
 
-### **Earth (Movement 1)** - Coming Soon
-- Will be organized in `Earth/` folder
-- Separate documentation and revisions
+### Overview
+**Title:** Πυρυδρο (Pyrydro) - "Olive Tree"  
+**Movement:** 1st Movement  
+**Compositional Intent:** Evoke the feel of earth  
+**Instrumentation:** String Quartet (originally String Quartet + Guitar)
+
+### Rev01: GuitarRemoved ✅
+**File:** `Earth/Movement-1/Earth-Mov1-rev01-GuitarRemoved.musicxml`
+
+**Changes Made:**
+- ✅ **Removed guitar part entirely** - Guitar (P1) part completely removed from score
+- ✅ **Updated part-list** - Removed guitar from instrument list
+- ✅ **Updated credit text** - Changed from "for String Quartet + Guitar" to "for String Quartet"
+- ✅ **Melodic material analysis** - Guitar part primarily contained rhythm notation (slash noteheads) and chordal/harmonic support material. The actual melodic content is already present in the string parts (Violin I, Violin II, Viola, Cello), so no melodic reassignment was necessary.
+
+**Current Instrumentation:**
+- Violin I (P2)
+- Violin II (P3)
+- Viola (P4)
+- Violoncello (P5)
+
+**Next Steps:**
+- Analyze movement for earth-evoking enhancements
+- Add dynamics, articulations, and expressive markings
+- Develop sections to reinforce the elemental theme
+
+---
+
+## Future Movements
 
 ### **Water (Movement 2)** - Coming Soon
 - Will be organized in `Water/` folder
