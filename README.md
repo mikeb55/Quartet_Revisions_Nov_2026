@@ -7,6 +7,7 @@ This repository contains incremental revisions and development documentation for
 ```
 Quartet_Revisions_Nov_2026/
 ├── Fire-Movement-3/          # Fire movement revisions
+│   ├── 3rd Movement - Fire -  NG orig.musicxml  # Original file
 │   ├── Fire-Mov3-rev01-ExpandedSections.musicxml
 │   ├── Fire-Mov3-rev02-[StepDesc].musicxml (future)
 │   └── ...
@@ -29,6 +30,12 @@ Quartet_Revisions_Nov_2026/
 - `Fire-Mov3-rev04-FinalPolish.musicxml` - Final polish and melodic reassignment
 
 ## Fire Movement (3rd Movement) - Current Status
+
+### Original File
+**File:** `Fire-Movement-3/3rd Movement - Fire -  NG orig.musicxml`
+- This is the original MusicXML file exported from Sibelius
+- All revisions are based on this original file
+- Used as the baseline for comparison with all revisions
 
 ### Rev01: ExpandedSections ✅
 **File:** `Fire-Movement-3/Fire-Mov3-rev01-ExpandedSections.musicxml`
