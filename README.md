@@ -1,32 +1,38 @@
 # Quartet Revisions - November 2026
 
-This repository contains incremental revisions and development documentation for the Elemental String Quartet Suite (Water, Earth, Fire).
+This repository contains incremental revisions and development documentation for the Elemental String Quartet Suite (Earth, Water, Air, Fire).
 
 ## Repository Structure
 
 ```
 Quartet_Revisions_Nov_2026/
-├── Fire/                        # Fire movement (Movement 3)
-│   ├── Movement-3/              # Fire movement revisions
-│   │   ├── 3rd Movement - Fire -  NG orig.musicxml  # Original Sibelius export
-│   │   ├── Fire-Mov3-rev01-ExpandedSections.musicxml
-│   │   ├── Fire-Mov3-rev02-ComprehensiveEnhancements.musicxml
-│   │   ├── Fire-Mov3-rev02-ComprehensiveEnhancements-V4.musicxml
-│   │   └── ...
-│   └── Documentation/          # Fire movement documentation
-│       ├── Fire Movement Analysis and Development Suggestions.md
-│       ├── Fire-Mov3-rev01-EditSummary.md
-│       ├── Fire-Mov3-rev02-EditSummary.md
-│       ├── Fire-Mov3-rev02-ArticulationsSummary.md
-│       └── ...
 ├── Earth/                       # Earth movement (Movement 1)
 │   ├── Movement-1/              # Earth movement revisions
 │   │   ├── Earth-Mov1-rev01-GuitarRemoved.musicxml
 │   │   └── ...
 │   └── Documentation/          # Earth movement documentation
 │       └── ...
-├── Water/                       # Water movement (Movement 2) - Future
+├── Water/                       # Water movement (Movement 2)
+│   ├── Movement-2/              # Water movement revisions
+│   │   └── ...
 │   └── ...
+├── Air/                         # Air movement (Movement 3)
+│   ├── Movement-3/              # Air movement revisions
+│   │   └── ...
+│   └── ...
+├── Fire/                        # Fire movement (Movement 4)
+│   ├── Movement-4/              # Fire movement revisions
+│   │   ├── 4th Movement - Fire -  NG orig.musicxml  # Original Sibelius export
+│   │   ├── Fire-Mov4-rev01-ExpandedSections.musicxml
+│   │   ├── Fire-Mov4-rev02-ComprehensiveEnhancements.musicxml
+│   │   ├── Fire-Mov4-rev02-ComprehensiveEnhancements-V4.musicxml
+│   │   └── ...
+│   └── Documentation/          # Fire movement documentation
+│       ├── Fire Movement Analysis and Development Suggestions.md
+│       ├── Fire-Mov4-rev01-EditSummary.md
+│       ├── Fire-Mov4-rev02-EditSummary.md
+│       ├── Fire-Mov4-rev02-ArticulationsSummary.md
+│       └── ...
 └── README.md                    # This file
 ```
 
@@ -36,24 +42,25 @@ Quartet_Revisions_Nov_2026/
 `[MovementName]-Mov[#]-rev[XX]-[StepDesc].musicxml`
 
 ### Examples
-- `Fire-Mov3-rev01-ExpandedSections.musicxml` - Initial expansion and notation improvements
-- `Fire-Mov3-rev02-ComprehensiveEnhancements.musicxml` - Comprehensive enhancements
-- `Fire-Mov3-rev03-CohesionFlow.musicxml` - Cohesion and flow refinement (future)
-- `Fire-Mov3-rev04-FinalPolish.musicxml` - Final polish (future)
+- `Earth-Mov1-rev01-GuitarRemoved.musicxml` - Earth movement, revision 01
+- `Water-Mov2-rev02-ComprehensiveEnhancements.musicxml` - Water movement, revision 02
+- `Air-Mov3-ExcellenceEdition.musicxml` - Air movement, Excellence Edition
+- `Fire-Mov4-rev01-ExpandedSections.musicxml` - Fire movement, revision 01
+- `Fire-Mov4-rev02-ComprehensiveEnhancements.musicxml` - Fire movement, revision 02
 
 ---
 
-## Fire Movement 3 - Current Status
+## Fire Movement 4 - Current Status
 
 ### Overview
 **Title:** Πυρυδρο (Pyrydro) - Fire of the Soul  
-**Movement:** 3rd Movement  
+**Movement:** 4th Movement  
 **Total Measures:** 81  
 **Tempo:** Quarter note = 112 (with accelerando to 132 at climax)  
 **Time Signature:** 4/4 (with 8/4 at measure 50)
 
 ### Original File
-**File:** `Fire/Movement-3/3rd Movement - Fire -  NG orig.musicxml`
+**File:** `Fire/Movement-4/4th Movement - Fire -  NG orig.musicxml`
 - Original MusicXML file exported from Sibelius
 - Baseline for all revisions
 - Used for comparison with all enhanced versions
@@ -63,7 +70,7 @@ Quartet_Revisions_Nov_2026/
 ## Revision History
 
 ### Rev01: ExpandedSections ✅
-**File:** `Fire/Movement-3/Fire-Mov3-rev01-ExpandedSections.musicxml`
+**File:** `Fire/Movement-4/Fire-Mov4-rev01-ExpandedSections.musicxml`
 
 **Enhancements Added:**
 - **Measure 9 (Section B):** Added **f** dynamic, **agitato**, **sempre più animato**
@@ -72,8 +79,8 @@ Quartet_Revisions_Nov_2026/
 ---
 
 ### Rev02: ComprehensiveEnhancements ✅
-**File:** `Fire/Movement-3/Fire-Mov3-rev02-ComprehensiveEnhancements.musicxml`  
-**Final Version:** `Fire/Movement-3/Fire-Mov3-rev02-ComprehensiveEnhancements-V4.musicxml`
+**File:** `Fire/Movement-4/Fire-Mov4-rev02-ComprehensiveEnhancements.musicxml`  
+**Final Version:** `Fire/Movement-4/Fire-Mov4-rev02-ComprehensiveEnhancements-V4.musicxml`
 
 **Major Enhancements:**
 
@@ -181,9 +188,9 @@ The Fire movement uses these musical techniques to evoke fire:
 All documentation is located in `Fire/Documentation/`:
 
 - **Fire Movement Analysis and Development Suggestions.md** - Comprehensive analysis and recommendations
-- **Fire-Mov3-rev01-EditSummary.md** - Rev01 changes summary
-- **Fire-Mov3-rev02-EditSummary.md** - Rev02 comprehensive enhancements summary
-- **Fire-Mov3-rev02-ArticulationsSummary.md** - Detailed articulations and texture enhancements
+- **Fire-Mov4-rev01-EditSummary.md** - Rev01 changes summary
+- **Fire-Mov4-rev02-EditSummary.md** - Rev02 comprehensive enhancements summary
+- **Fire-Mov4-rev02-ArticulationsSummary.md** - Detailed articulations and texture enhancements
 
 ---
 
@@ -226,11 +233,27 @@ All documentation is located in `Fire/Documentation/`:
 
 ---
 
+## Air Movement 3 - Current Status
+
+### Overview
+**Title:** Air - Movement 3  
+**Movement:** 3rd Movement  
+**Compositional Intent:** Evoke the feel of air - ethereal, flowing, baroque jazz-pop style
+
+### Current Files
+- `Air/Movement-3/Air-Mov3-ExcellenceEdition.musicxml` - Excellence Edition
+- `Air/Movement-3/V2-Air-Mov3-*.md` - V2 revision planning documents
+- `Air/Movement-3/V2-Air-Mov3-Chord-Progression.*` - Chord progression documents
+
+---
+
 ## Future Movements
 
-### **Water (Movement 2)** - Coming Soon
-- Will be organized in `Water/` folder
-- Separate documentation and revisions
+All movements are now complete:
+- **Earth (Movement 1)** ✅
+- **Water (Movement 2)** ✅
+- **Air (Movement 3)** ✅
+- **Fire (Movement 4)** ✅
 
 ---
 
@@ -246,7 +269,7 @@ Each revision should:
 
 ## Final Assessment
 
-**Fire Movement 3 Status:** ✅ **Complete and Ready for Performance**
+**Fire Movement 4 Status:** ✅ **Complete and Ready for Performance**
 
 The movement successfully evokes fire through:
 - Comprehensive dynamic range (`mf` → `fff` → `ppp`)
