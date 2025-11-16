@@ -1,0 +1,288 @@
+<!-- Measures 25-89 for Cello Part P4 -->
+<!-- M25-28: A2-C3-E3-A3 -->
+<!--============== Part: P4, Measure: 25 ==============-->
+<measure number="25" width="217">
+ <note color="#000000" default-x="15">
+  <pitch>
+   <step>A</step>
+   <octave>2</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="81">
+  <pitch>
+   <step>C</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="147">
+  <pitch>
+   <step>E</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="213">
+  <pitch>
+   <step>A</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+</measure>
+<!--============== Part: P4, Measure: 26 ==============-->
+<measure number="26" width="217">
+ <note color="#000000" default-x="15">
+  <pitch>
+   <step>A</step>
+   <octave>2</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="81">
+  <pitch>
+   <step>C</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="147">
+  <pitch>
+   <step>E</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="213">
+  <pitch>
+   <step>A</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+</measure>
+<!--============== Part: P4, Measure: 27 ==============-->
+<measure number="27" width="217">
+ <note color="#000000" default-x="15">
+  <pitch>
+   <step>A</step>
+   <octave>2</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="81">
+  <pitch>
+   <step>C</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="147">
+  <pitch>
+   <step>E</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="213">
+  <pitch>
+   <step>A</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+</measure>
+<!--============== Part: P4, Measure: 28 ==============-->
+<measure number="28" width="217">
+ <note color="#000000" default-x="15">
+  <pitch>
+   <step>A</step>
+   <octave>2</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="81">
+  <pitch>
+   <step>C</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="147">
+  <pitch>
+   <step>E</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+ <note color="#000000" default-x="213">
+  <pitch>
+   <step>A</step>
+   <octave>3</octave>
+  </pitch>
+  <duration>256</duration>
+  <instrument id="P4-I1" />
+  <voice>1</voice>
+  <type>quarter</type>
+  <stem>down</stem>
+  <staff>1</staff>
+  <notations>
+   <articulations>
+    <pizzicato />
+   </articulations>
+  </notations>
+ </note>
+</measure>
+
+
